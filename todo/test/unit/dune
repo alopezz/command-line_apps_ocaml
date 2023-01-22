@@ -1,0 +1,3 @@
+(test
+ (name todo_test)
+ (libraries todo alcotest))

@@ -1,0 +1,5 @@
+(executable
+ (public_name todo)
+ (package todo)
+ (name main)
+ (libraries todo))
