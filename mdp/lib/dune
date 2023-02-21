@@ -1,0 +1,5 @@
+(library
+ (name mdp)
+ (libraries omd str)
+ (instrumentation
+  (backend bisect_ppx)))

@@ -1,0 +1,5 @@
+(executable
+ (public_name mdp)
+ (package mdp)
+ (name main)
+ (libraries mdp unix))

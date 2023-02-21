@@ -24,7 +24,7 @@ let () =
 
   let arg_spec =
     [
-      ( "-add",
+      ("-add",
         Arg.Rest_all
           (fun words ->
             add_flag := true;

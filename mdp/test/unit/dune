@@ -1,0 +1,3 @@
+(test
+ (name mdp_test)
+ (libraries mdp alcotest))
